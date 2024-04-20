@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  =
-ADMIN        = 1255023013
+API_ID       = 26524652
+API_HASH     = "0db5261c41ac6406147c12ec9f8ae6b4"
+BOT_TOKEN    = "6748831322:AAGiN6Y4sgzYcztvg3GATF3ip9i8EXbeVtI"
+SESSION      = "BQBu4HFFC0B3loFwqPehyNzNrX_CnEKxsBxxHVr3IgcU6WfSVxNORh7c7Tbv1Ks23GLr2kcnJiITbfPkDjfFg0wwjUAKPrkOA6QCWO49cG-VBTREk4WQYmtj4exFzpbIXNJPi8EIuTMBbvRlSocNkmhaX79jTL-TuomCNyG4FngPdCtY3MchFXpNJo2_hWbiYvXyF2AbBLTXKu4lR4ZJrC6MzpPY-23FzT-FdWgIGHOgyETSOxHz-Mp9GRt0_fS6myXkuNaNfkUS5HjhQkSICHVmOq7LGJ4pMWo8ZwBULiNfLgJsCiaoU3-JrWVABA5cvV_OJmUoeBwgjrTz0h0z65oBAAAAAaaHbkMA"
+DATABASE_URI = "mongodb+srv://animebhau60:F66EK72xqzfumHR7@cluster0.mgupyii.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+LOG_CHANNEL  = -1002060057429
+ADMIN        = 7088860739
 CHANNEL      = "NobiDeveloper"
